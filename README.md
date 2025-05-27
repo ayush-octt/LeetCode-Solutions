@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ayush-octt/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/ayush-octt/LeetCode-Solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
